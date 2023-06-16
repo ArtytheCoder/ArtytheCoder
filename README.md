@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arti
 - 👀 I’m interested in Computer Science Broadly spaeaking 
-- 🌱 I’m currently learning MAchine learning
+- 🌱 I’m currently learning Machine learning
 - 📫 How to reach me artim5320@gmail.com
 
 <!---
